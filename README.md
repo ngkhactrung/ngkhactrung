@@ -2,7 +2,7 @@
 - 👀 I’m interested in a useful web application
 - 🌱 I’m currently learning Blockchain
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngkhactrung&layout=compact&theme=buefy&hide_border=true" /> |
+| <a href="https://github.com/ngkhactrung"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngkhactrung&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!---
